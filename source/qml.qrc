@@ -1,0 +1,14 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ScaleFactor.js</file>
+        <file>qml/HomePage.qml</file>
+        <file>qml/FtoC.qml</file>
+        <file>qml/CtoF.qml</file>
+        <file>qml/FtoK.qml</file>
+        <file>qml/CtoK.qml</file>
+        <file>qml/KtoF.qml</file>
+        <file>qml/KtoC.qml</file>
+    </qresource>
+</RCC>
